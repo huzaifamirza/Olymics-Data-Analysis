@@ -1,7 +1,7 @@
 # Olymics-Data-Analysis Project
 # Outcomes
-1 United States With Most Number of participations in olympics.
-2 Female Participations in olympics is increasing by each Year.
+#United States With Most Number of participations in olympics.
+#Female Participations in olympics is increasing by each Year.
 3 Most Number of Gold,Silver and Bronze medals wins by United States.
 4 Michael Fred Phelps, II	wins the most medals in olympics 28 medals.
 5 In Rio olympics Us wins 134 medals and great britain wins 64 medals.
